@@ -1,0 +1,18 @@
+J:\Contacts\Contacts\Contacts\bin\Release\Contacts.exe
+J:\Contacts\Contacts\Contacts\bin\Release\Contacts.pdb
+J:\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.csprojResolveAssemblyReference.cache
+J:\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.FrmContact.resources
+J:\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.FrmMain.resources
+J:\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.Properties.Resources.resources
+J:\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.csproj.GenerateResource.Cache
+J:\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.exe
+J:\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.pdb
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.exe
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.pdb
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\bin\Release\Contacts.exe
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\bin\Release\Contacts.pdb
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.csprojResolveAssemblyReference.cache
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.FrmContact.resources
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.FrmMain.resources
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.Properties.Resources.resources
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Release\Contacts.csproj.GenerateResource.Cache

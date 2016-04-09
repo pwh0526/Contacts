@@ -1,0 +1,36 @@
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\bin\Debug\Contacts.exe
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\bin\Debug\Contacts.pdb
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\obj\x86\Debug\Contacts.FrmContact.resources
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\obj\x86\Debug\Contacts.FrmMain.resources
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\obj\x86\Debug\Contacts.exe
+C:\Documents and Settings\HP\Local Settings\Application Data\Temporary Projects\Contacts\obj\x86\Debug\Contacts.pdb
+D:\新建文件夹\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+D:\新建文件夹\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+D:\新建文件夹\Contacts\Contacts\bin\Debug\Contacts.exe
+D:\新建文件夹\Contacts\Contacts\bin\Debug\Contacts.pdb
+D:\新建文件夹\Contacts\Contacts\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\新建文件夹\Contacts\Contacts\obj\x86\Debug\Contacts.FrmContact.resources
+D:\新建文件夹\Contacts\Contacts\obj\x86\Debug\Contacts.FrmMain.resources
+D:\新建文件夹\Contacts\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+D:\新建文件夹\Contacts\Contacts\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\新建文件夹\Contacts\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+D:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+D:\Contacts\Contacts\Contacts\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.FrmContact.resources
+D:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.FrmMain.resources
+D:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+D:\Contacts\Contacts\Contacts\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Contacts\Contacts\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Contacts\Contacts\Contacts\bin\Debug\Contacts.exe
+D:\Contacts\Contacts\Contacts\bin\Debug\Contacts.pdb
+E:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+E:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+J:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+J:\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+H:\新建文件夹 (2)\Contacts\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
